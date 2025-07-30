@@ -35,7 +35,7 @@ I'm currently pursuing my B.Tech in Information Technology at **Sreenidhi Instit
 
 ## 🚀 Live Portfolio
 
-🔗 [View Live Portfolio](https://your-deployment-link.com) *(replace with your actual URL once hosted)*
+🔗 https://portfolio-sathwika.netlify.app/
 
 > ✅ Hosted on: GitHub Pages / Netlify / Vercel
 
